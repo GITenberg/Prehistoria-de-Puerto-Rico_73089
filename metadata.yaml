@@ -1,0 +1,27 @@
+_repo: Prehistoria-de-Puerto-Rico_73089
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Toste, Cayetano Coll y
+    gutenberg_agent_id: '56940'
+    url: http://www.gutenberg.org/2009/agents/56940
+description: ''
+gutenberg_issued: '2024-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73089'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.721256
+pgterms:marc905: 20220413081848collytoste
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aSan Juan :$bTip. Boletin mercantil, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Prehistoria de Puerto-Rico
+url: http://www.gutenberg.org/ebooks/73089
