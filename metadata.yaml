@@ -1,11 +1,16 @@
 _repo: Prehistoria-de-Puerto-Rico_73089
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73089-h/images/cover.jpg
 creator:
   author:
     agent_name: Toste, Cayetano Coll y
     gutenberg_agent_id: '56940'
     url: http://www.gutenberg.org/2009/agents/56940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73089#Prehistoria-de-Puerto-Rico
 gutenberg_issued: '2024-03-02'
 gutenberg_type: Text
 identifiers:
